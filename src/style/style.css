@@ -1,0 +1,20 @@
+@media (max-width:450px){
+    .smalltrash{
+        display: block;
+    }
+    .largetrash{
+        display:none;
+    }
+    .emptycart_img{
+        margin-right: 50px;
+    }
+    .smallclose{
+        display: none;
+    }
+
+    individual iteams details
+   
+    .items_img img{
+        width: 16rem;
+    }
+}
