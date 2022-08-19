@@ -22,13 +22,44 @@ function CardDetails() {
                                 <strong>Restaurant</strong> : Massala Theory
                             </p>
                             <p>
-                                <strong>Restaurant</strong> : Massala Theory
+                                <strong>Price</strong> : ₹ 300
                             </p>
                             <p>
-                                <strong>Restaurant</strong> : Massala Theory
+                                <strong>Dishes</strong> : North Indian, Biryani, Mughlai
                             </p>
                             <p>
-                                <strong>Restaurant</strong> : Massala Theory
+                                <strong>Total</strong> : ₹ 300
+                            </p>
+                        </td>
+                        <td>
+                            <p>
+                                <strong>Rating : </strong> 
+                                <span
+                                style={{background: "green",
+                                color: "#fff",
+                                padding: "2px 5px",
+                                borderRadius: "5px"
+                                }}
+                                >
+                                    3.5 ★
+                                </span>
+                            </p>
+                            <p>
+                                <strong>Order Review : </strong> 
+                                <span>
+                                    1175 + order placed from here recently
+                                </span>
+                            </p>
+                            <p>
+                                <strong>Remove : </strong> 
+                                <span>
+                                    <i className='fas fa-trash'
+                                    style={{color: "red",
+                                    fontSize: 20,
+                                    cursor: "pointer"
+                                    }}
+                                    />
+                                </span>
                             </p>
                         </td>
                     </tr>
